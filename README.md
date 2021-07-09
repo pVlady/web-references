@@ -1,12 +1,16 @@
 ## Web References
 
 ### Backup & Sync
-* [Duplicati](https://github.com/duplicati/duplicati/)
-* [RClone](https://rclone.org/)
-* [Seafile](https://www.seafile.com/en/home/)
-* [Syncthing](https://syncthing.net/)
-* [Unison](https://www.cis.upenn.edu/~bcpierce/unison/)
-* [UrBackup](https://www.urbackup.org/)
+* Packages
+  * [Duplicati](https://github.com/duplicati/duplicati/)
+  * [RClone](https://rclone.org/)
+  * [Seafile](https://www.seafile.com/en/home/)
+  * [Syncthing](https://syncthing.net/)
+  * [Unison](https://www.cis.upenn.edu/~bcpierce/unison/)
+  * [UrBackup](https://www.urbackup.org/)
+* Articles 
+  * [Резервное копирование | Цикл статей](https://habr.com/ru/company/southbridge/blog/449282/)
+
 
 ### Coding
 * [30 Seconds of Code](https://www.30secondsofcode.org/) : *Code snippets for tons of languages*
