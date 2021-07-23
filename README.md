@@ -21,6 +21,9 @@
 * [Vim](https://www.vim.org/download.php)
 * [Vim | GitHub](https://github.com/vim/vim)
 
+### Converters
+* [pandoc](https://pandoc.org/installing.html)
+
 ### Online Services
 * [VirtusTotal](https://www.virustotal.com/gui/)
 
