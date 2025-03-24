@@ -38,6 +38,6 @@
 * [WireGuard](https://www.wireguard.com/install/)
 
 ### Open Source Tools By GitHub
-* [pdf-=craft](https://github.com/oomol-lab/pdf-craft) | 2025-03-20\
- Инструмент для преобразования PDF в EPUB и Markdown. Может извлекать текст, фильтровать верхние и нижние колонтитулы, обрабатывать ссылки между страницами и номера страниц. При первом использовании автоматически загружается необходимая AI-модель. Рекомендуется настроить использование модели DeepSeek V3.
+* [pdf-=craft](https://github.com/oomol-lab/pdf-craft) | 2025-03-20 (554 stars\
+A tool for converting PDF to EPUB & Markdown. The possibilities: text extracting, headers and footers filtering,  work with references between pages and page numbers. At first start the necessary AI-model will be autodownloaded (the DeepSeek V3 model is recommended to use).
 
