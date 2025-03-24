@@ -36,3 +36,8 @@
 * [Kernel Virtual Machine (KVM)](http://www.linux-kvm.org/page/Main_Page)
 * [pfSense](https://www.pfsense.org/)
 * [WireGuard](https://www.wireguard.com/install/)
+
+### Open Source Tools By GitHub
+* [pdf-=craft](https://github.com/oomol-lab/pdf-craft)
+ Инструмент для преобразования PDF в EPUB и Markdown. Может извлекать основной текст, фильтровать верхние и нижние колонтитулы, обрабатывать ссылки между страницами.
+
